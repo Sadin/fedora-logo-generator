@@ -1,4 +1,6 @@
 #!/usr/bin/python
+from __future__ import annotations
+
 
 def main() -> int:
     print('Hello, World')
@@ -7,4 +9,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     print(main())
-
