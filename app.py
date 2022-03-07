@@ -1,10 +1,10 @@
 from __future__ import annotations
 
+from flask import Flask
 
-def main() -> int:
-    print('Hello, World')
-    return 0
+app = Flask(__name__)
 
 
-if __name__ == '__main__':
-    print(main())
+@app.route('/')
+def hello():
+    return 'Hello, World!'
