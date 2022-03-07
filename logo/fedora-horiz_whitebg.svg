@@ -27,15 +27,15 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.95320983"
-     inkscape:cx="-142.15128"
-     inkscape:cy="101.76143"
-     inkscape:window-width="2544"
+     inkscape:zoom="1.9064197"
+     inkscape:cx="324.95469"
+     inkscape:cy="105.43324"
+     inkscape:window-width="1268"
      inkscape:window-height="1355"
      inkscape:window-x="8"
      inkscape:window-y="40"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4492" />
+     inkscape:current-layer="txt" />
   <defs
      id="defs4528" />
   <g
@@ -110,6 +110,15 @@
              sodipodi:nodetypes="ccccczcccscccc" />
         </g>
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-250.33525"
+         y="-135.64674"
+         id="text3084"><tspan
+           sodipodi:role="line"
+           id="tspan3082"
+           style="stroke-width:0.264583"></tspan></text>
     </g>
   </g>
 </svg>
